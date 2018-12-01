@@ -91,4 +91,4 @@ exclude:
   - CNAME
 
 # Don't know
-theme: default
+theme: jekyll-theme-minimal
