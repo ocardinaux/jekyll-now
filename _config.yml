@@ -74,13 +74,10 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - github-pages # ocx 2018-11-27 working theme ?
-  - jemoji  # ocx 2018-12-15 # GitHub-flavored Emoji plugin for Jekyll
-
-plugins:
   - jemoji # ocx 2018-12-15 # GitHub-flavored Emoji plugin for Jekyll
   - jekyll-remote-theme # to use remote themes
 
