@@ -82,8 +82,9 @@ gems:
 
 plugins:
   - jemoji # ocx 2018-12-15 # GitHub-flavored Emoji plugin for Jekyll
+  - jekyll-remote-theme # to use remote themes
 
-# Exclude these files from your production _site 
+  # Exclude these files from your production _site 
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -92,4 +93,5 @@ exclude:
   - CNAME
 
 # Don't know
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: daviddarnes/alembic
