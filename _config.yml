@@ -91,4 +91,4 @@ exclude:
 
 # Don't know
 # theme: jekyll-theme-minimal
-remote_theme: daviddarnes/alembic
+# remote_theme: daviddarnes/alembic
