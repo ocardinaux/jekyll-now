@@ -150,13 +150,16 @@ img {
 // .masthead
 //
 
+// OcX 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background-color: #6E7DAB;
+  clip-path: polygon(0px 0px, 100% 0px, 100% 70%, 0px 100%);
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  // border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -273,9 +276,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  padding-top: 50px;
+  background-color: #6E7DAB;
+  clip-path: polygon(0px 21%, 100% 0px, 100% 100%, 0% 100%);
 }
 
 footer {
