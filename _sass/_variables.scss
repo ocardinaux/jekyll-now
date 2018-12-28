@@ -4,19 +4,20 @@
 //
 
 // Colors
-$blue: #5762D5;
+$blue: #F2EEAA;
 
 // Grays
-$black: #000;
+$black: #282422;
 $darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #EAF2EF;
+$darkGray: #746d59;
+$gray: #BCB7AA;
+$lightGray: #e5dfd9;
+$white: #fffdfa;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+$helvetica: 'Roboto Slab', Helvetica, Arial, sans-serif;
+$helveticaNeue: 'Roboto Slab', "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
