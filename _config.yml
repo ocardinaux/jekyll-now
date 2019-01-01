@@ -15,7 +15,7 @@ avatar: /images/oc-logo000.svg
 #
 # Flags below are optional
 #
-
+lang: fr
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
